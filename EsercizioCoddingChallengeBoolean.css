@@ -1,0 +1,72 @@
+body{
+    background-image: url("background.jpg");
+    background-size: 100%;
+    width: 65%;
+    margin: auto;
+    line-height: 12px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif
+}
+
+
+header > img{
+    width: 25%;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    color: yellow;
+}
+
+nav{
+    background-color: orange;
+    border: 10px solid orange;
+    text-align: center;
+}
+
+
+section{
+    color: white;
+    
+}
+
+.percentualeCarica1{
+    border: 13px solid yellowgreen;
+    border-radius: 5px;
+    width: 30%;
+}
+
+.percentualeCarica2{
+    border: 13px solid green;
+    border-radius: 5px;
+    width: 70%;
+}
+
+.percentualeCarica3{
+    border: 13px solid red;
+    border-radius: 5px;
+    width: 15%;
+}
+
+footer{
+    text-align: center;
+    font-weight: bold;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 80px;
+    margin: 20px;
+    border-radius: 3%;
+}
+
+
+span{
+    padding-top: 20px;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+}
